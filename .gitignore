@@ -130,3 +130,4 @@ dmypy.json
 
 # domain data
 data/
+notebooks/kaggle-tutorial
